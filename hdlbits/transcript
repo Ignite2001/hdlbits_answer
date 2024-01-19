@@ -1,0 +1,5 @@
+# vsim top_module -voptargs="+acc" 
+# Start time: 12:23:54 on Jan 19,2024
+# Loading work.top_module
+# End time: 12:24:04 on Jan 19,2024, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 0

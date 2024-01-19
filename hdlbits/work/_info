@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/codev/hdlbits
+vcounter
+!s110 1705676746
+!i10b 1
+!s100 `R9KU1KAzo`A9GA=5hLFT1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<2`KZ;Ca07[W;^8?k05]S2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dd:/codev/hdlbits
+w1705676659
+8d:\codev\hdlbits\lemming4.v
+Fd:\codev\hdlbits\lemming4.v
+!i122 73
+L0 160 41
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1705676746.000000
+!s107 d:\codev\hdlbits\lemming4.v|
+!s90 -nologo|-work|work|d:\codev\hdlbits\lemming4.v|
+!i113 1
+Z5 o-nologo -work work
+Z6 tCvgOpt 0
+vtb
+!s110 1705637963
+!i10b 1
+!s100 a^SCK?aWHFekOlL;eVfQT1
+R1
+IBzjdl>F==Gc:9Kb0^z[i21
+R2
+R0
+w1705637953
+8test.v
+Ftest.v
+!i122 23
+L0 1 8
+R4
+r1
+!s85 0
+31
+!s108 1705637963.000000
+!s107 test.v|
+!s90 test.v|
+!i113 1
+R6
+vtop_module
+!s110 1705676789
+!i10b 1
+!s100 ObWz4o]P@z:Fl5m_<Z;UE0
+R1
+IdHzX:c]XWLh:lhP8VZ<QZ3
+R2
+R3
+w1705676788
+8d:\codev\hdlbits\lemming3.v
+Fd:\codev\hdlbits\lemming3.v
+!i122 74
+L0 1 134
+R4
+r1
+!s85 0
+31
+!s108 1705676788.000000
+!s107 d:\codev\hdlbits\lemming3.v|
+!s90 -nologo|-work|work|d:\codev\hdlbits\lemming3.v|
+!i113 1
+R5
+R6
